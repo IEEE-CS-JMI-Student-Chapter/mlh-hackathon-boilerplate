@@ -35,15 +35,15 @@ seo:
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
+  name:        "Hack JMI 2.0"
+  description: "Jamia Millia Islamia's biggest hackathon."
+  date:        "29-30 January 2023"
+  location:    "Jamia Millia Islamia, New Delhi"
 
-  trust_badge:
-    year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+#   trust_badge:
+#     year:   "2017"  # season year
+#     region: "eu"    # "na" or "eu"
+#     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
