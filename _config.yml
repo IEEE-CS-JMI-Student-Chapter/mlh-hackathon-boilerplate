@@ -29,8 +29,8 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5-6 August 2022"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "Hack JMI | 29-30 January 2023"
+  description: "Jamia Millia Islamia's biggest hackathon."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
